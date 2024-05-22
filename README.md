@@ -8,7 +8,7 @@ Prints the extracted information for each product on the page.
 
 ## Installation:
 
-Clone this repository using git clone https://github.com/<username>/web-scraper.git (replace <username> with your GitHub username).
+Clone this repository using git clone https://github.com/vandersarj/web-scraper.git (replace <username> with your GitHub username).
 Open a terminal and navigate to the project directory using cd web-scraper.
 Install the required Python libraries using pip install requests beautifulsoup4. (requests library is used for making HTTP requests, beautifulsoup4 for parsing HTML)
 
